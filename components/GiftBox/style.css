@@ -449,8 +449,9 @@
   top: 10%;
   width: 350px;
   font-size: 1.2rem;
+  font-weight: 550;
   font-family: 'Fredoka', sans-serif;
-  color: white;
+  color: rgb(255, 22, 22);
   animation-delay: 3.5s;
   -webkit-animation: tracking-in-contract 1.5s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
   animation: tracking-in-contract 1.5s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
@@ -652,7 +653,7 @@
   .tracking-in-contract {
     width: 230px;
     font-size: 0.9rem;
-    top: -15%;
+    top: 100%;
   }
 
   .slide-top {
@@ -670,7 +671,7 @@
   .tracking-in-contract {
     width: 230px;
     font-size: 0.95rem;
-    top: -15%;
+    top: 100%;
   }
 
   .slide-top {
@@ -688,7 +689,7 @@
   .tracking-in-contract {
     width: 250px;
     font-size: 1rem;
-    top: -15%;
+    top: 100%;
   }
 
   .slide-top {
@@ -706,7 +707,7 @@
   .tracking-in-contract {
     width: 300px;
     font-size: 1.1rem;
-    top: -15%;
+    top: 100%;
   }
 
   .slide-top {
@@ -725,7 +726,7 @@
   .tracking-in-contract {
     width: 350px;
     font-size: 1.2rem;
-    top: -15%;
+    top: 100%;
   }
 
   .slide-top {

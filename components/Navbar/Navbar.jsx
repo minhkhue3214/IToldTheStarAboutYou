@@ -31,7 +31,7 @@ const Navbar = () => {
       </div>
       <div className='nav-text main-menu'>
         {/* <MusicPlayer /> */}
-        <a href="">#JasonTodd</a>
+        <a href="">#TapTap82</a>
         {/* <img className='avatar' src="https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png" alt="" /> */}
       </div>
     </nav>

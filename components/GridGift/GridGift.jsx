@@ -132,7 +132,7 @@ const GridGift = () => {
                                     <p className="number">10</p>
                                 </div>
                                 <div className="page__2">
-                                    <img onClick={(e) => (openLightBox(e))} className='box_image' src="../../public/tap/tap12.gif" alt="" />
+                                    <img onClick={(e) => (openLightBox(e))} className='box_image' src="/tap/tap12.gif" alt="" />
                                 </div>
                             </div>
                         </div>
