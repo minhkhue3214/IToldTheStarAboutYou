@@ -31,7 +31,7 @@ const GiftBox = ({ openGift, setOpenGift, onStart }) => {
       {
         openGift ? <div className="box-content" >
           <img className='slide-top' src="/gif/webear.gif" loop playsInline autoPlay />
-          <img className='scale-up-center' src="/1.jpg" />
+          <img className='scale-up-center' src="/tap/tap8.webp" />
           <div className='tracking-in-contract'>Just Happy to know you Just Happy to know you Just Happy to know you Just Happy to know you</div>
         </div> : ""
       }

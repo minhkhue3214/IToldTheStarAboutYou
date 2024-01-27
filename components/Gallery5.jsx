@@ -11,7 +11,7 @@ const Gallery5 = () => {
                 <div className="gallery__item" style={{ backgroundImage: 'url(/look02/05.webp)' }}></div>
                 <div className="gallery__item" style={{ backgroundImage: 'url(/look02/02.webp)' }}></div>
                 <div className="caption">
-                    <p>In the realm of unpredictable algorithms, some variations may appear random or without purpose, challenging traditional notions of beauty and meaning.</p>
+                    <p>DESIGN BY _TapTap_82</p>
                 </div>
             </div>
         </div>

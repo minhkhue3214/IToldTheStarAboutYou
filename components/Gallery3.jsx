@@ -25,7 +25,7 @@ const Gallery3 = () => {
                     <div className="gallery__item pos-14" style={{ backgroundImage: 'url(/look01/08.webp)' }}></div>
                     <div className="gallery__item pos-15" style={{ backgroundImage: 'url(/look01/09.webp)' }}></div>
                     <div className="gallery__item pos-16" style={{ backgroundImage: 'url(/look02/05.webp)' }}></div>
-                    <div className="caption">The Art of Perfection?</div>
+                    <div className="caption">DESIGN BY _TapTap_82</div>
                 </div>
             </div></>
     )

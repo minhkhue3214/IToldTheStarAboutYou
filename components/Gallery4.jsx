@@ -11,7 +11,7 @@ const Gallery4 = () => {
                 <div className="gallery__item" style={{ backgroundImage: 'url(/look01/05.webp)' }}></div>
                 <div className="gallery__item" style={{ backgroundImage: 'url(/look01/06.webp)' }}></div>
                 <div className="caption">
-                    <p>AI-generated art captivates with varied creations, sometimes senseless, yet impressively enigmatic.</p>
+                    <p>DESIGN BY _TapTap_82</p>
                 </div>
             </div>
         </div>

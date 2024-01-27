@@ -15,7 +15,7 @@ const Gallery2 = () => {
                     <div className="gallery__item gallery__item-cut"><div className="gallery__item-inner" style={{ backgroundImage: 'url(/look01/08.webp)' }}></div></div>
                     <div className="gallery__item gallery__item-cut"><div className="gallery__item-inner" style={{ backgroundImage: 'url(/look01/09.webp)' }}></div></div>
                     <div className="caption">
-                        <p>Devoid of inherent knowledge, the language model relies solely on probabilities to craft a peculiar vision. As a result, the earrings hang in curious defiance of physics, inviting us to ponder the implications of relinquishing human understanding in the pursuit of artificial creativity.</p>
+                        <p>DESIGN BY _TapTap_82</p>
                     </div>
                 </div>
             </div>

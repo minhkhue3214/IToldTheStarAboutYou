@@ -13,13 +13,13 @@ const Gallery1 = () => {
           <div className="gallery__item gallery__item--m" style={{ backgroundImage: 'url(/look02/02.webp)' }}></div>
           <div className="gallery__item gallery__item--s" style={{ backgroundImage: 'url(/look02/03.webp)' }}></div>
           <div className="caption">
-            Within this meticulously arranged AI-generated ensemble lies a tantalizing facade, captivating our gaze. Yet, as we search for the soul of human expression, we question whether algorithms can truly embody the essence of authentic art.
+          DESIGN BY _TapTap_82
           </div>
         </div>
       </div>
       <section className="project project--details project--left">
-        <span className="project__label project__label--default">Ethical Considerations</span>
-        <p>The emergence of AI-generated art raises ethical questions and concerns. One of the key challenges is navigating the boundaries of authorship and ownership. Determining the role of AI algorithms and their creators in the artistic process, as well as addressing issues of attribution and intellectual property, requires careful deliberation. Additionally, ensuring that AI-generated art does not perpetuate bias, discrimination, or harmful content is crucial for fostering a responsible and inclusive artistic landscape.</p>
+        <span className="project__label project__label--default">DESIGN BY _TapTap_82</span>
+        <p>DESIGN BY _TapTap_82.</p>
       </section></>
   )
 }

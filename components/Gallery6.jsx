@@ -11,7 +11,7 @@ const Gallery6 = () => {
                 <div className="gallery__item" style={{ backgroundImage: 'url(/look01/03.webp)' }}></div>
                 <div className="gallery__item" style={{ backgroundImage: 'url(/look01/05.webp)' }}></div>
                 <div className="caption">
-                    <p>This uncharted territory challenges artists and art enthusiasts alike, igniting debates about the role of intention and chance in the artistic process.</p>
+                    <p>DESIGN BY _TapTap_82</p>
                 </div>
             </div>
         </div>
