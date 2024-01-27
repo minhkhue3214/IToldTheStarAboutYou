@@ -34,7 +34,7 @@ const Slider = () => {
                     {/* <img style={contentStyle} src="/img/1.jpg" alt="" /> */}
                 </div>
                 <div className='slider'>
-                    <img style={contentStyle} src="/bgslider/cake4.webp" alt="" />
+                    <img style={contentStyle} src="https://live.staticflickr.com/5161/5261871951_7af75f2cd8_b.jpg" alt="" />
                     {/* <img style={contentStyle} src="/img/1.jpg" alt="" /> */}
                 </div>
             </Carousel>
