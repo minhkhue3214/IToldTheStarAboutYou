@@ -653,7 +653,7 @@
   .tracking-in-contract {
     width: 230px;
     font-size: 0.9rem;
-    top: 100%;
+    top: 50%;
   }
 
   .slide-top {
@@ -671,7 +671,7 @@
   .tracking-in-contract {
     width: 230px;
     font-size: 0.95rem;
-    top: 100%;
+    top: 60%;
   }
 
   .slide-top {
@@ -689,7 +689,7 @@
   .tracking-in-contract {
     width: 250px;
     font-size: 1rem;
-    top: 100%;
+    top: 60%;
   }
 
   .slide-top {
@@ -707,7 +707,7 @@
   .tracking-in-contract {
     width: 300px;
     font-size: 1.1rem;
-    top: 100%;
+    top: 80%;
   }
 
   .slide-top {
