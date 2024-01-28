@@ -16,8 +16,7 @@ const MagicBg = () => {
       "Birthday",
       "Wishes",
       "And Dreams",
-      "Come",
-      "True",
+      "Come True",
       "^^",
     ];
 

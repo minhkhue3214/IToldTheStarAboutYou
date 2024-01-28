@@ -14,8 +14,8 @@
     top: calc(100vh + 180px); */
     bottom: 0;
     top: 40%;
-    color: #090404;
-    /* color: white; */
+    /* color: #090404; */
+    color: white;
     filter: url(#threshold) blur(0.6px);
 }
 
