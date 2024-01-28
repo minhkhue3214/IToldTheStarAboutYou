@@ -5,7 +5,7 @@ const TerminalText = () => {
 
     useEffect(() => {
         // function([string1, string2],target id,[color1,color2])    
-        consoleText(['Hello World.', 'Find the Gift Box', 'Made with Love.'], 'text', ['black', 'black', 'black']);
+        consoleText(['Hey!!!', 'I Just Want To Say', 'Happy Birthday 💖'], 'text', ['black', 'black', 'black']);
 
         function consoleText(words, id, colors) {
             if (colors === undefined) colors = ['#fff'];

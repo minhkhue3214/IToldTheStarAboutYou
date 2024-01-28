@@ -11,15 +11,14 @@ const MagicBg = () => {
     // Hope all your birthday wishes come true.
 
     const texts = [
-      "Hope",
-      "All",
-      "Your",
-      "Bday",
+      "I Hope",
+      "All Your",
+      "Birthday",
       "Wishes",
+      "And Dreams",
       "Come",
       "True",
-      "^_^",
-      "by @Jason"
+      "^^",
     ];
 
     const morphTime = 1;
