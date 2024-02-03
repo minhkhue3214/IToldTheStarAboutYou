@@ -35,7 +35,8 @@
     transition: 0.5s;
   }
 
-  .social_name{
+  a .social_name{
     font-family: "Raleway", sans-serif;
     letter-spacing: 0.5px;
+    color: white;
   }

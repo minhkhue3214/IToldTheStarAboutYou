@@ -18,8 +18,8 @@ const Gallery1 = () => {
         </div>
       </div>
       <section className="project project--details project--left">
-        <span className="project__label project__label--default">DESIGN BY _TapTap_82</span>
-        <p>DESIGN BY _TapTap_82.</p>
+        <span className="project__label project__label--default">Béo Bank:</span>
+        <p>Xin chào , chúc mừng sinh nhật khách hàng , trước khi khách hàng tiến tới các dịch vụ bên dưới thì xin phép cho nói đôi lời đã =))), đáng lẽ ăn trộm ảnh thế này phải xin phép trước , nhưng mà để giữ tính bí mật và món quà này là độc quyền của bạn nào đấy thế nên là tui xin phép nhen, hehe</p>
       </section></>
   )
 }
