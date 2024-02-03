@@ -28,11 +28,11 @@ const Navbar = () => {
     <nav className={navClass}>
       <div className='nav-text left-corner'><a href={`/`}>Dumiendu</a></div>
       <div className='nav-text right-corner'>
-        <a href={`/happy`}>Happy</a>
+        <a href={`/happy`}>Happy Birthday</a>
       </div>
       <div className='nav-text main-menu'>
         {/* <MusicPlayer /> */}
-        <a href="">#TapTap82</a>
+        <a href="https://www.instagram.com/_taptap_82/">#TapTap82</a>
         {/* <img className='avatar' src="https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png" alt="" /> */}
       </div>
     </nav>
