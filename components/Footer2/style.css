@@ -47,7 +47,7 @@ a .social_name {
 
 @media (max-width: 640px) {
     .footer {
-        height: 150px;
+        height: 120px;
         width: 100%;
     }
 }

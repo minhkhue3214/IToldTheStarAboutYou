@@ -5,7 +5,7 @@ const Gallery3 = () => {
         <>
             <section className="project project--details project--right">
                 <span className="project__label project__label--default">Béo Bank:</span>
-                <p>Khách hàng lăn chuột nhẹ nhàng xuống dưới cùng rồi hãng nhấn dòng chữ happy birthday bên trên nha =)) see ya</p>
+                <p>Khách hàng lăn chuột chậm xuống dưới cùng của trang rồi hãy nhấn dòng chữ happy birthday bên trên sau cùng nha =)) see ya</p>
             </section>
             <div className="gallery-wrap">
                 <div className="gallery gallery--grid10" id="gallery-3">

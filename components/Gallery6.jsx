@@ -11,7 +11,7 @@ const Gallery6 = () => {
                 <div className="gallery__item" style={{ backgroundImage: 'url(/look01/03.webp)' }}></div>
                 <div className="gallery__item" style={{ backgroundImage: 'url(/look01/05.webp)' }}></div>
                 <div className="caption">
-                    <p>DESIGN BY _TapTap_82</p>
+                    <p>as you are!</p>
                 </div>
             </div>
         </div>

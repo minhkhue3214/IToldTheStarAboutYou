@@ -33,7 +33,7 @@ const GiftBox = ({ openGift, setOpenGift, onStart }) => {
           <img className='slide-top' src="/gif/webear.gif" loop playsInline autoPlay />
           <img className='scale-up-center' src="/tap/tap8.webp" />
           <div className='tracking-in-contract'>Chúc bạn có một sinh nhật thật ấm áp , đón tuổi 18 theo một cách đặc biệt nhất <br></br>
-          p/s ảnh yêu thích nên xin phép dùng lại ạ :))
+          p/s Ảnh yêu thích nên xin phép dùng lại :]]
            </div>
         </div> : ""
       }
