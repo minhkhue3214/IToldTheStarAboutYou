@@ -39,7 +39,7 @@ const MagicVideo = () => {
           <div className="video">
             {/* <img className='tiktok' src="https://i.pinimg.com/564x/4c/2d/9a/4c2d9ab9d16c001348494518d43d6ef4.jpg" alt="" /> */}
             <video className='tiktok' autoPlay loop muted>
-              <source src="/video/vd4.mp4" type="video/mp4" />
+              <source src="/video/vd5.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
             {/* <img className='tiktok' src="/tap/save3.gif" alt="" /> */}

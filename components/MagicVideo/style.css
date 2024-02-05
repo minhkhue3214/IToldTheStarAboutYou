@@ -53,10 +53,29 @@
     font-family: 'Fredoka', sans-serif;
 }
 
-@media (max-width: 640px) {
+@media only screen and (max-width: 310px) {
     .magic_video .video_content .content {
         width: 100%;
     }
+
+    .content .text p {
+        font-size: 14px;
+    }
+
+    .magic_video .video_content {
+        height: 300px;
+    }
+
+    .magic_video {
+        height: 900px;
+    }
+}
+
+@media only screen and (min-width: 311px) and (max-width: 639px) {
+    .magic_video .video_content .content {
+        width: 100%;
+    }
+
     .content .text p {
         font-size: 16px;
     }
@@ -91,7 +110,7 @@
 @media (min-width: 768px) {
     .magic_video .video_content .content {
         width: 100%;
-        
+
     }
 
     .content .text p {
@@ -118,8 +137,9 @@
 @media (min-width: 1024px) {
     .magic_video .video_content .content {
         width: 80%;
-        
+
     }
+
     .content .text p {
         font-size: 24px;
     }
@@ -137,6 +157,7 @@
     .magic_video .video_content .content {
         width: 53%;
     }
+
     .content .text p {
         font-size: 24px;
     }

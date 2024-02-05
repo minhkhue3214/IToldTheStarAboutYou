@@ -35,10 +35,17 @@
   left: 10px;
 }
 
-@media (max-width: 640px) {
+@media only screen and (max-width: 310px) {
   .console-container {
-    font-size: 2em;
-    height: 15px;
+    font-size: 1.6em;
+    height: 14px;
+  }
+}
+
+@media only screen and (min-width: 311px) and (max-width: 639px) {
+  .console-container {
+    font-size: 1.7em;
+    height: 16px;
   }
 }
 
