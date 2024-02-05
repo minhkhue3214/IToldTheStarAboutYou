@@ -35,7 +35,7 @@
   left: 10px;
 }
 
-@media only screen and (max-width: 310px) {
+@media only screen and (max-width: 311px) {
   .console-container {
     font-size: 1.6em;
     height: 14px;
