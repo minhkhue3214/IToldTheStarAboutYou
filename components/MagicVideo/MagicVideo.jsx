@@ -22,7 +22,7 @@ const MagicVideo = () => {
       <div className="video_content">
         <div className="content">
           <div className="text">
-            <p>Đến đây thì không biết viết cái gì rồi , khách hàng cứ lăn chuột xuống tiếp nhé</p>
+            <p>Đến đây thì không biết viết cái gì rồi =))) , khách hàng cứ lăn chuột xuống tiếp nhé</p>
           </div>
           <div className="video">
             {/* <img className='tiktok' src="https://i.pinimg.com/564x/57/39/b9/5739b948b0b453f309b191614e82b73b.jpg" alt="" /> */}
@@ -45,7 +45,7 @@ const MagicVideo = () => {
             {/* <img className='tiktok' src="/tap/save3.gif" alt="" /> */}
           </div>
           <div className="text">
-            <p>Bên dưới có 28 hộp quà khác nhau , trong đấy có 1 món quà có lời chúc phiền khách hàng tìm hộ tui nhé =)) nếu thấy thì ới hộ tui xem nó nằm ở đâu với</p>
+            <p>Bên dưới có 28 hộp quà khác nhau , trong đấy có 1 món quà có lời chúc phiền khách hàng tìm hộ tui nhé =)) nếu thấy thì ới hộ tui xem món quà đó nằm ở đâu với</p>
           </div>
         </div>
       </div>
